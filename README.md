@@ -1,55 +1,44 @@
-👋 Hey there, I’m Ayushman
+# Hey, I'm Ayushman Raj 👋
 
-🔐 Blockchain & Cybersecurity Enthusiast
-💻 Smart Contract Developer (Solidity, Foundry)
-🧠 AI-Powered Security & Web3 Innovator
-🚀 Passionate about Decentralization & Secure Tech Innovation
+### DevOps | Cloud | Cybersecurity | Blockchain Security
 
-👨‍💻 About Me
+Computer Science graduate passionate about building secure, automated, and reliable systems. I explore Linux, cloud infrastructure, DevSecOps, blockchain development, and smart contract security through hands-on projects.
 
-I’m a Blockchain Developer & Smart Contract Auditor with a strong passion for building secure, efficient, and decentralized systems. My expertise lies in smart contract development and auditing, where I leverage both technical depth and security-focused thinking to ensure trust in Web3 applications.
+- 🐧 Linux administration, Bash scripting & automation
+- 🐳 Docker, Docker Compose & CI/CD with GitHub Actions
+- ☁️ AWS, Terraform & cloud infrastructure
+- 🔐 Cybersecurity, network monitoring & DevSecOps
+- ⛓️ Solidity, Ethereum & smart contract development
+- 🛡️ Smart contract auditing, vulnerability analysis & security testing
 
-I enjoy:
+## 🛠️ Tech Stack
 
-🔭 Auditing smart contracts for vulnerabilities & optimization
+**Languages:** Python, Bash, Java, SQL, Solidity
 
-🛠️ Building decentralized applications and security tools
+**DevOps & Cloud:** Linux, Git, GitHub Actions, Docker, Docker Compose, AWS, Terraform, Kubernetes
 
-🧠 Solving problems with Java (DSA) and applying them to blockchain logic
+**Cybersecurity:** Nmap, Wireshark, OWASP, network security
 
-🌐 Exploring how AI can enhance blockchain security
+**Blockchain Security:** Ethereum, Foundry, Remix IDE, Slither, Aderyn, Mythril
 
-🛠️ Tech Stack & Tools
-🌍 Languages & Development
+**Development:** Flask, JavaScript, React
 
-Java – DSA, problem-solving, backend logic
+## 🚀 Featured Projects
 
-Solidity – Smart contract development & auditing
+- **Linux Server Administration & Monitoring** — Linux system administration, monitoring, and Bash automation.
+- **NetIDS** — Network intrusion detection using Python and Scapy.
+- **SOC Log Monitoring & Alerting** — Security log analysis and alerting.
+- **Uniswap-Style DEX** — Solidity-based decentralized exchange exploring token swaps and liquidity pools.
+- **Smart Contract Security** — Exploring vulnerability detection, automated testing, and smart contract auditing.
 
-HTML, CSS, JavaScript – Frontend integration with Web3
+➡️ Explore my repositories for source code, tests, and technical documentation.
 
-⚒️ Frameworks & IDEs
+## 🎯 Current Focus
 
-Foundry – Smart contract development & testing
+Building projects in DevOps, CI/CD, cloud security, infrastructure automation, and smart contract auditing.
 
-Remix IDE – Rapid prototyping & debugging
+## 🤝 Connect
 
-VS Code & VSCodium – Main coding environments
+Open to opportunities and collaborations in **DevOps, Cloud Engineering, Cybersecurity, DevSecOps, and Blockchain Security**.
 
-🔐 Security & Auditing Tools
-
-Slither – Static analysis for vulnerabilities
-
-Aderyn – Security-focused auditing
-
-Mythril – Advanced smart contract security analysis
-
-📈 Current Focus
-
-🔍 Auditing smart contracts for vulnerabilities, gas efficiency & best practices
-
-🤖 AI-powered Web3 tools for smarter blockchain security
-
-🏗️ Building decentralized solutions with real-world impact
-
-📚 Constantly learning new auditing methodologies and security framework
+"Build it. Automate it. Secure it. Document it."
